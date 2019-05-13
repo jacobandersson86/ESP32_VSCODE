@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${env:IDF_PATH}/components/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "${default}",
+            "compilerPath": "C:\\Program Files\\Espressif\\ESP-IDF Tools\\tools\\bin\\xtensa-esp32-elf-gcc.exe"
+        }
+    ],
+    "version": 4
+}
